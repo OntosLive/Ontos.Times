@@ -1,0 +1,8 @@
+title: ONTOS.TIMES
+description: Газета различений · Телеграф живых событий
+baseurl: "/Ontos.Times"
+url: "https://ontoslive.github.io"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
